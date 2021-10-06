@@ -12,4 +12,3 @@ Movie_Site
 - HTML
 - CSS
 - JavaScript
-- 
